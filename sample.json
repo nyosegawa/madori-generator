@@ -1,0 +1,144 @@
+{
+    "apartment": {
+      "rectangle": {
+        "width": 500,
+        "height": 1000
+      },
+      "rooms": [
+        {
+          "name": "Entrance",
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 500,
+            "height": 100
+          },
+          "features": [
+            {
+              "type": "door",
+              "rectangle": {
+                "x": 200,
+                "y": 0,
+                "width": 100,
+                "height": 10
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "rectangle": {
+            "x": 0,
+            "y": 100,
+            "width": 500,
+            "height": 300
+          },
+          "features": [
+            {
+              "type": "sink",
+              "rectangle": {
+                "x": 50,
+                "y": 150,
+                "width": 100,
+                "height": 50
+              }
+            },
+            {
+              "type": "stove",
+              "rectangle": {
+                "x": 200,
+                "y": 150,
+                "width": 100,
+                "height": 50
+              }
+            },
+            {
+              "type": "refrigerator",
+              "rectangle": {
+                "x": 350,
+                "y": 150,
+                "width": 100,
+                "height": 50
+              }
+            }
+          ]
+        },
+        {
+          "name": "Living Area",
+          "rectangle": {
+            "x": 0,
+            "y": 400,
+            "width": 500,
+            "height": 300
+          },
+          "features": [
+            {
+              "type": "desk",
+              "rectangle": {
+                "x": 50,
+                "y": 450,
+                "width": 100,
+                "height": 50
+              }
+            },
+            {
+              "type": "chair",
+              "rectangle": {
+                "x": 200,
+                "y": 450,
+                "width": 50,
+                "height": 50
+              }
+            },
+            {
+              "type": "window",
+              "rectangle": {
+                "x": 350,
+                "y": 450,
+                "width": 100,
+                "height": 50
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bathroom",
+          "rectangle": {
+            "x": 0,
+            "y": 700,
+            "width": 500,
+            "height": 300
+          },
+          "features": [
+            {
+              "type": "toilet",
+              "rectangle": {
+                "x": 50,
+                "y": 750,
+                "width": 50,
+                "height": 50
+              }
+            },
+            {
+              "type": "sink",
+              "rectangle": {
+                "x": 150,
+                "y": 750,
+                "width": 50,
+                "height": 50
+              }
+            },
+            {
+              "type": "shower",
+              "rectangle": {
+                "x": 250,
+                "y": 750,
+                "width": 50,
+                "height": 50
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
