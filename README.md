@@ -7,6 +7,10 @@
 - GPT-4oの性能的に難しい
 - 間取りは普通のアプローチで生成しようね: [RoomPlan](https://developer.apple.com/jp/augmented-reality/roomplan/) 等
 
+## 結果サンプル
+
+![Figure_1](https://github.com/nyosegawa/madori-generator/assets/116951203/b147f791-330d-4b9e-8403-a152796ffe5a)
+
 ## 使い方
 
 ### 事前準備
